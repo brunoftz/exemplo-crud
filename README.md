@@ -17,13 +17,12 @@ https://www.apachefriends.org/pt_br/download.html
 
 instale e abra o xampp, ligando as funções do Apache e MySql, como no exemplo a seguir:
 
-![crudttr](https://user-images.githubusercontent.com/105890630/228087873-d9595987-35b7-45b2-97d5-70dd47a12aa8.png)
+![crudttr](https://user-images.githubusercontent.com/105890630/228088331-b48cc1b6-9744-4e69-8661-5856c7d7564e.png)
 
 clique nos dois botões destacados acima!
 
 
-
-![crudttr1](https://user-images.githubusercontent.com/105890630/228087899-36709ac0-9b24-4d12-86ac-02d68661ba68.png)
+![crudttr1](https://user-images.githubusercontent.com/105890630/228088303-64bfc3fb-4b5f-431c-b73d-21d70dd3c629.png)
 
 se estiver assim, está funcionando!
   
