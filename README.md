@@ -26,10 +26,17 @@ clique nos dois botões destacados acima!
 ![crudttr1](https://user-images.githubusercontent.com/105890630/228087899-36709ac0-9b24-4d12-86ac-02d68661ba68.png)
 
 se estiver assim, está funcionando!
-
+  
+  
+  
+  
 
 em seguida, abra o HeidiSql e crie uma nova sessão:
+
+
 ![ttrheid](https://user-images.githubusercontent.com/105890630/228086603-84950eaf-9e3c-4053-9c63-404af5451554.png)
+
+
 
 
 <codigo sql aqui>
