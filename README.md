@@ -6,12 +6,22 @@ Oi! Vou deixar a você, leitor, um pequeno tutorial de como rodar esse simples (
 CRUD são as quatro operações básicas de um projeto que tem conexão com banco de dados (Create-criar, Read-ler, Update-atualizar e Delete-deletar).
 Esse projeto é um simples controlador de banco de dados, que dispõe dessas quatro funções de uma forma intuitiva.
 
-Para testes,usaremos o endereço de IPv4 "127.0.0.1", que refere-se ao seu próprio host. Nos instaladores das ferramentas que indicarei a seguir, não mude este número, se houver tal opção em algum deles.
+Para testes, utilizaremos o endereço de IPv4 "127.0.0.1", que refere-se ao seu próprio host. Nos instaladores das ferramentas que indicarei a seguir, não mude este número, se houver tal opção em algum deles.
 
-Vamos aos trabalhos? Primeiramente, você deve configurar o banco de dados em si. Escolha o seu gerenciador de databases favorito(mysql, heidisql, entre outros), instale e abra o aplicativo de conexões xampp, ligando as funções de apache e mysql. Um simples google e você achará o donwload desses aplicativos supracitados. 
+Vamos aos trabalhos? Primeiramente, você deve configurar o banco de dados em si. Escolha o seu gerenciador de databases favorito(mysql, heidisql, entre outros)!
+Caso não tenha instalado nenhum deles, aqui está o link do heidisql:
+https://www.heidisql.com/download.php
+
+Precisaremos também do aplicativo xampp, que permitirá a criação de uma conexão para testes. Você pode instalar ele nesse link abaixo:
+https://www.apachefriends.org/pt_br/download.html
+
+instale e abra o xampp, ligando as funções do Apache e MySql, como no exemplo a seguir:
+
+![crudttr](https://user-images.githubusercontent.com/105890630/228078678-81fdc734-63d2-4eb3-9ee6-b0c5f8050a07.png)
+
+![image](https://user-images.githubusercontent.com/105890630/228077036-9d7bcc05-5bd1-4ff5-9841-31bcb65a2097.png)
 
 em seguida na consulta do gerenciador rode o seguinte código:
 
 <codigo sql aqui>
 
-com esse banco de dados funcionando, você agora deve...[continua]
