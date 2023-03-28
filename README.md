@@ -38,7 +38,16 @@ https://www.apachefriends.org/pt_br/download.html <br>
 
 ![cnsltttr](https://user-images.githubusercontent.com/105890630/228091141-afabbec0-4d4f-4d24-b4c2-b1e6b4310fe0.png)<br>
 
-<b>No espaço para digitar a consulta, cole o seguinte código:</b>
+<b>No espaço para digitar a consulta, cole o código do arquivo "backupescola.sql", que está localizado aqui no projeto, na pasta models.:</b><br>
+
+Agora, vá ao explorador de arquivos, entre em Disco local C:/, então abra a pasta xampp e entre em htdocs. Lá <b>você deve criar uma pasta e colar os arquivos desse projeto!</b><br>
+
+
+
+![pastattr](https://user-images.githubusercontent.com/105890630/228382101-098f7f1e-17dd-4adf-9b69-33ca676b256b.png)<br>
+
+No meu caso, a pasta criada foi essa "crud_exemplo", e colei todos os arquivos lá.
+
 
 
 
