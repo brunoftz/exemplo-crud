@@ -34,9 +34,11 @@ https://www.apachefriends.org/pt_br/download.html <br>
 ![ttrheid](https://user-images.githubusercontent.com/105890630/228086603-84950eaf-9e3c-4053-9c63-404af5451554.png)<br>
 
 
-<b>após criar a sessão e abrí-la, vá para a aba de consulta</b><br><br>
+<b>Após criar a sessão e abrí-la, vá para a aba de consulta</b><br><br>
 
 ![cnsltttr](https://user-images.githubusercontent.com/105890630/228091141-afabbec0-4d4f-4d24-b4c2-b1e6b4310fe0.png)<br>
+
+<b>No espaço para digitar a consulta, cole o seguinte código:</b>
 
 
 
