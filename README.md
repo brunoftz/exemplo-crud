@@ -39,15 +39,24 @@ https://www.apachefriends.org/pt_br/download.html <br>
 ![cnsltttr](https://user-images.githubusercontent.com/105890630/228091141-afabbec0-4d4f-4d24-b4c2-b1e6b4310fe0.png)<br>
 
 <b>No espaço para digitar a consulta, cole o código do arquivo "backupescola.sql", que está localizado aqui no projeto, na pasta models.:</b><br>
+<h2>Toques finais</h2>
+Agora, vá ao explorador de arquivos, entre em Disco local C:/, então abra a pasta xampp e entre em htdocs. Lá <b>você deve extrair e colar a pasta desse projeto!</b><br>
 
-Agora, vá ao explorador de arquivos, entre em Disco local C:/, então abra a pasta xampp e entre em htdocs. Lá <b>você deve criar uma pasta e colar os arquivos desse projeto!</b><br>
 
 
+![pastattr](https://user-images.githubusercontent.com/105890630/228385608-79f49ac8-e032-4aea-8a25-ea8ef40d1265.png)<br>
 
-![pastattr](https://user-images.githubusercontent.com/105890630/228382101-098f7f1e-17dd-4adf-9b69-33ca676b256b.png)<br>
+<b>Visualize o local da pasta "exemplo-crud-main", é dessa forma que deve ficar.</b><br>
 
-No meu caso, a pasta criada foi essa "crud_exemplo", e colei todos os arquivos lá.
+Após isso, basta ir ao seu navegador e digitar na barra superior o caminho "localhost/exemplo-crud-main". <br>
+<b>O site se apresentará na sua tela da seguinte forma forma:</b><br>
 
+![image](https://user-images.githubusercontent.com/105890630/228392239-6d672db1-320c-41b1-bb6a-bc732daf50ea.png)<br>
+
+<b>Parabéns! Agora você pode inserir, editar, consultar e deletar informações nesse banco de dados.</b><br>
+
+<h2>Considerações finais</h2>
+Muito obrigado por utilizar o meu código! Sinta-se livre para fazer sua própria versão dele, e
 
 
 
