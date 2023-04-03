@@ -56,7 +56,7 @@ Após isso, basta ir ao seu navegador e digitar na barra superior o caminho "loc
 <b>Parabéns! Agora você pode inserir, editar, consultar e deletar informações nesse banco de dados.</b><br>
 
 <h2>Considerações finais</h2>
-Muito obrigado por utilizar o meu código! Sinta-se livre para fazer sua própria versão dele, submetendo-o às alterações que julgar necessárias. Eu recomendo que utilize o visual studio para tais modificações.<br><br>
+Muito obrigado por utilizar o meu código! Sinta-se livre para fazer sua própria versão dele, submetendo-o às alterações que julgar necessárias, por meio dos aplicativos citados acima (e também com o visual studio).
 Muito obrigado pela atenção!
 
 
